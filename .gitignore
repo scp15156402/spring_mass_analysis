@@ -1,0 +1,19 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter and VS Code files
+.ipynb_checkpoints/
+.vscode/
+
+# Data and results (if you don't want to upload large or raw files)
+part1_results/
+part2_results/
+*.csv
+*.png
+*.pdf
+
+# Virtual environments
+.venv/
+env/
